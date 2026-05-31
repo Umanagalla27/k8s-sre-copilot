@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs and Tools
+.idea/
+.vscode/
+
+# Local databases and caches
+ops_db.sqlite
+qdrant_db/
+storage/runbooks_corpus.json
+storage/redis_cache.json
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
