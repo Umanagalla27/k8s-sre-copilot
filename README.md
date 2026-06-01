@@ -112,3 +112,12 @@ python -m streamlit run ui/app.py --server.port 8501
 The project is fully deployed locally and tracked in version control.
 - **Backend API**: Running on `http://localhost:8000`
 - **Frontend UI**: Running on `http://localhost:8501`
+### 4. Output
+<img width="1901" height="952" alt="Screenshot 2026-05-31 185522" src="https://github.com/user-attachments/assets/2e8d755d-2633-4182-b1cd-185a3f3e4940" />
+<img width="1898" height="924" alt="Screenshot 2026-05-31 185550" src="https://github.com/user-attachments/assets/b0b92b43-91d8-4b97-9207-d6eebcaa176e" />
+<img width="1918" height="952" alt="Screenshot 2026-05-31 185602" src="https://github.com/user-attachments/assets/2fc15779-226c-4d6d-8292-19e1922c2990" />
+<img width="1899" height="953" alt="Screenshot 2026-05-31 185612" src="https://github.com/user-attachments/assets/9b6b04d8-983e-46df-9408-2486fe7c59d4" />
+
+
+
+
